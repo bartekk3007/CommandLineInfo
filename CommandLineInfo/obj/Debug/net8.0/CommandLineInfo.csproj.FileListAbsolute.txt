@@ -1,0 +1,14 @@
+C:\Users\48571\source\repos\CommandLineInfo\bin\Debug\net8.0\CommandLineInfo.exe
+C:\Users\48571\source\repos\CommandLineInfo\bin\Debug\net8.0\CommandLineInfo.deps.json
+C:\Users\48571\source\repos\CommandLineInfo\bin\Debug\net8.0\CommandLineInfo.runtimeconfig.json
+C:\Users\48571\source\repos\CommandLineInfo\bin\Debug\net8.0\CommandLineInfo.dll
+C:\Users\48571\source\repos\CommandLineInfo\bin\Debug\net8.0\CommandLineInfo.pdb
+C:\Users\48571\source\repos\CommandLineInfo\obj\Debug\net8.0\CommandLineInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48571\source\repos\CommandLineInfo\obj\Debug\net8.0\CommandLineInfo.AssemblyInfoInputs.cache
+C:\Users\48571\source\repos\CommandLineInfo\obj\Debug\net8.0\CommandLineInfo.AssemblyInfo.cs
+C:\Users\48571\source\repos\CommandLineInfo\obj\Debug\net8.0\CommandLineInfo.csproj.CoreCompileInputs.cache
+C:\Users\48571\source\repos\CommandLineInfo\obj\Debug\net8.0\CommandLineInfo.dll
+C:\Users\48571\source\repos\CommandLineInfo\obj\Debug\net8.0\refint\CommandLineInfo.dll
+C:\Users\48571\source\repos\CommandLineInfo\obj\Debug\net8.0\CommandLineInfo.pdb
+C:\Users\48571\source\repos\CommandLineInfo\obj\Debug\net8.0\CommandLineInfo.genruntimeconfig.cache
+C:\Users\48571\source\repos\CommandLineInfo\obj\Debug\net8.0\ref\CommandLineInfo.dll

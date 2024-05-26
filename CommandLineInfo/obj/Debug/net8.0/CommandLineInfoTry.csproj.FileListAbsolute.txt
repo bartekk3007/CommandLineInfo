@@ -1,0 +1,17 @@
+C:\Users\48571\source\repos\CommandLineInfo\obj\Debug\net8.0\CommandLineInfoTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48571\source\repos\CommandLineInfo\obj\Debug\net8.0\CommandLineInfoTry.AssemblyInfoInputs.cache
+C:\Users\48571\source\repos\CommandLineInfo\obj\Debug\net8.0\CommandLineInfoTry.AssemblyInfo.cs
+C:\Users\48571\source\repos\CommandLineInfo\obj\Debug\net8.0\CommandLineInfoTry.csproj.CoreCompileInputs.cache
+C:\Users\48571\source\repos\CommandLineInfo\bin\Debug\net8.0\CommandLineInfoTry.exe
+C:\Users\48571\source\repos\CommandLineInfo\bin\Debug\net8.0\CommandLineInfoTry.deps.json
+C:\Users\48571\source\repos\CommandLineInfo\bin\Debug\net8.0\CommandLineInfoTry.runtimeconfig.json
+C:\Users\48571\source\repos\CommandLineInfo\bin\Debug\net8.0\CommandLineInfoTry.dll
+C:\Users\48571\source\repos\CommandLineInfo\bin\Debug\net8.0\CommandLineInfoTry.pdb
+C:\Users\48571\source\repos\CommandLineInfo\obj\Debug\net8.0\CommandLineInfoTry.dll
+C:\Users\48571\source\repos\CommandLineInfo\obj\Debug\net8.0\refint\CommandLineInfoTry.dll
+C:\Users\48571\source\repos\CommandLineInfo\obj\Debug\net8.0\CommandLineInfoTry.pdb
+C:\Users\48571\source\repos\CommandLineInfo\obj\Debug\net8.0\CommandLineInfoTry.genruntimeconfig.cache
+C:\Users\48571\source\repos\CommandLineInfo\obj\Debug\net8.0\ref\CommandLineInfoTry.dll
+C:\Users\48571\source\repos\CommandLineInfo\bin\Debug\net8.0\JetBrains.Annotations.dll
+C:\Users\48571\source\repos\CommandLineInfo\obj\Debug\net8.0\CommandLineInfoTry.csproj.AssemblyReference.cache
+C:\Users\48571\source\repos\CommandLineInfo\obj\Debug\net8.0\CommandL.37BE880D.Up2Date
